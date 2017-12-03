@@ -6,7 +6,7 @@
 function obesity(){
 d3.selectAll(".first").remove();
 
-var width = 800;
+var width = 675;
 var height = 500;
 
 // D3 Projection
